@@ -8,7 +8,7 @@
   I’m an expert in Java, Spring Boot, Microservices, and React, building scalable, high-performance systems with a focus on system design and AWS cloud solutions. I’m passionate about delivering efficient, innovative, and robust applications.
 </p>
 
-- 🚀 **Technical Lead** @ **Wipro**
+- 🚀 **Design Engineer Specialist** @ **BT Group**
 - 🎓 **Master's in Computer Science** from **Woolf University**
 - 💡 Ask me anything **about System Design** – I’ve got you covered!
 - 📧 Reach me at **contactbalavivek@gmail.com**
